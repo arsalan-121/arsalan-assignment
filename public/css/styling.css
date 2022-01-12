@@ -1,0 +1,22 @@
+body{
+    background-color: #8ca3a3 !important;
+}
+
+.input-count-down{
+    padding: 20px 20px;   
+}
+
+#start{
+    width: 90%;
+    height: 20px;
+    margin: 20px auto;
+    border-radius: 10px;
+    background-color: #ffffff;
+    border: 1px solid blue;
+}
+
+#start-bar{
+    height: 20px;
+    background-color: blue;
+    border-radius: 10px;
+}
